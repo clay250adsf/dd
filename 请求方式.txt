@@ -1,0 +1,10 @@
+show=title
+tempid=1
+keyboard=%BA%DA%B0%B5%C8%D9%D2%AB
+Submit=%C1%A2%BC%B4%CB%D1%CB%F7
+
+classid=0&show=title%2Csmalltext&tempid=1&keyboard=%s&Submit=%C1%A2%BC%B4%CB%D1%CB%F7
+%C9%CF%B5%DB%D2%B2%B7%E8%BF%F1
+
+
+html body div#header div.contain div.bd2 div.bd3 div.bd3r2 div.co_area2 div.co_content8 ul table.tbspan tbody tr td b a.ulink
